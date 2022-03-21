@@ -1,0 +1,1 @@
+../../../Target Support Files/react-native-foloosi/react-native-foloosi-umbrella.h

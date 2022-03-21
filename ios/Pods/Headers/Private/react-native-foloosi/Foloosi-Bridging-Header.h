@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-foloosi/ios/Foloosi-Bridging-Header.h

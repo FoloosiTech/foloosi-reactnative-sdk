@@ -1,0 +1,6 @@
+module Pods_foloosi_example_foloosi_exampleTests {
+  umbrella header "Pods-foloosi_example-foloosi_exampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

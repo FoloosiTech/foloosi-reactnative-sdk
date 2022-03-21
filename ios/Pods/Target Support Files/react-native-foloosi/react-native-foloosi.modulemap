@@ -1,0 +1,6 @@
+module react_native_foloosi {
+  umbrella header "react-native-foloosi-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,126 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.foloosi_example"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.99.0] /Users/admin/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.99.0] /Users/admin/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:11:5-79
+14-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:11:22-76
+15
+16    <application
+16-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:6:5-25:19
+17        android:name="com.foloosi_example.MainApplication"
+17-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:7:9-40
+18        android:allowBackup="false"
+18-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:8:9-36
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] /Users/admin/.gradle/caches/transforms-3/ff5df5bcdf69debbf1e3067aa1d51dbb/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:9:9-43
+22        android:label="@string/app_name"
+22-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:10:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:11:9-54
+24        android:theme="@style/AppTheme"
+24-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:12:9-40
+25        android:usesCleartextTraffic="true" >
+25-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/debug/AndroidManifest.xml:8:9-44
+26        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+26-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/debug/AndroidManifest.xml:11:9-86
+26-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/debug/AndroidManifest.xml:11:19-83
+27        <activity
+27-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:13:9-24:20
+28            android:name="com.foloosi_example.MainActivity"
+28-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:14:13-41
+29            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+29-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:15:13-90
+30            android:exported="true"
+30-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:16:13-36
+31            android:label="@string/app_name"
+31-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:17:13-45
+32            android:launchMode="singleTask"
+32-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:18:13-44
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:19:13-55
+34            <intent-filter>
+34-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:20:13-23:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:21:17-69
+35-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:21:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:22:17-77
+37-->/Users/admin/Documents/WorkSpace/React_Native/FoloosiNPM/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:22:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <meta-data
+41-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:14:9-16:37
+42            android:name="android.webkit.WebView.EnableSafeBrowsing"
+42-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:15:13-69
+43            android:value="false" />
+43-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:16:13-34
+44
+45        <activity
+45-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:18:9-22:76
+46            android:name="com.foloosi.core.ActFoloosiPay"
+46-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:19:13-58
+47            android:screenOrientation="portrait"
+47-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:20:13-49
+48            android:theme="@style/FoloosiTheme"
+48-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:21:13-48
+49            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+49-->[com.foloosi:FoloosiSDK:2.0.7] /Users/admin/.gradle/caches/transforms-3/4e0ae8aa83406d61b8b643823a3f5ce7/transformed/jetified-FoloosiSDK-2.0.7/AndroidManifest.xml:22:13-73
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+53            android:authorities="com.foloosi_example.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/admin/.gradle/caches/transforms-3/2fda1ef4a376de495fc302fd0d62eb5a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/admin/.gradle/caches/transforms-3/2fda1ef4a376de495fc302fd0d62eb5a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/admin/.gradle/caches/transforms-3/2fda1ef4a376de495fc302fd0d62eb5a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+61        </provider>
+62
+63        <uses-library
+63-->[androidx.window:window:1.0.0] /Users/admin/.gradle/caches/transforms-3/7f7f47bf138af9bff33b60ae89f111cd/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+64            android:name="androidx.window.extensions"
+64-->[androidx.window:window:1.0.0] /Users/admin/.gradle/caches/transforms-3/7f7f47bf138af9bff33b60ae89f111cd/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+65            android:required="false" />
+65-->[androidx.window:window:1.0.0] /Users/admin/.gradle/caches/transforms-3/7f7f47bf138af9bff33b60ae89f111cd/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+66        <uses-library
+66-->[androidx.window:window:1.0.0] /Users/admin/.gradle/caches/transforms-3/7f7f47bf138af9bff33b60ae89f111cd/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+67            android:name="androidx.window.sidecar"
+67-->[androidx.window:window:1.0.0] /Users/admin/.gradle/caches/transforms-3/7f7f47bf138af9bff33b60ae89f111cd/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+68            android:required="false" />
+68-->[androidx.window:window:1.0.0] /Users/admin/.gradle/caches/transforms-3/7f7f47bf138af9bff33b60ae89f111cd/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+69    </application>
+70
+71</manifest>
