@@ -12,16 +12,21 @@ const App = () => {
           Foloosi.initSDK("YOUR_KEY");
           Foloosi.makePayment(
             JSON.stringify({
-              orderAmount: "1", // in double format ##,###.##
-              customColor: "#AB34FD", // make payment page loading color as app color.
+              orderAmount: 1.0, // in double format ##,###.##
+              customColor: "#AB34FD", // make payment page loading color as app color. // optional
               orderId: "orderId", // unique order id
-              orderDescription: "order description", // any description.
+              orderDescription: "order description", // any description. // optional
               currencyCode: "INR",
-              customerUniqueReference: "customer reference id",
+              customerUniqueReference: "customer reference id", // optional
+              country: "India", // mandatory for ios
+              postalCode: "6200082", //optional
+              state: "Test State", //optional
               customer: {
-                name: "name",
+                name: "Test",
                 email: "email@gmail.com",
                 mobile: "9876543210",
+                address: "Test Adddddress", // optional
+                city: "Test City", // optional
               },
             }),
             (response) => {

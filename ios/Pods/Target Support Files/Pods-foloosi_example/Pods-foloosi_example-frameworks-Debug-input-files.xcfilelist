@@ -1,3 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-foloosi_example/Pods-foloosi_example-frameworks.sh
 ${PODS_XCFRAMEWORKS_BUILD_DIR}/Flipper-DoubleConversion/double-conversion.framework/double-conversion
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Foloosi-iOS-SDK/FoloosiSdk.framework/FoloosiSdk
 ${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL-Universal/OpenSSL.framework/OpenSSL
