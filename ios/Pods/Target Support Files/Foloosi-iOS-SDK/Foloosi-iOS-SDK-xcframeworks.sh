@@ -17,11 +17,11 @@ RSYNC_PROTECT_TMP_FILES=(--filter "P .*.??????")
 variant_for_slice()
 {
   case "$1" in
-  "FoloosiSdk.xcframework/ios-arm64")
-    echo ""
-    ;;
   "FoloosiSdk.xcframework/ios-x86_64-simulator")
     echo "simulator"
+    ;;
+  "FoloosiSdk.xcframework/ios-arm64")
+    echo ""
     ;;
   esac
 }
@@ -29,11 +29,11 @@ variant_for_slice()
 archs_for_slice()
 {
   case "$1" in
-  "FoloosiSdk.xcframework/ios-arm64")
-    echo "arm64"
-    ;;
   "FoloosiSdk.xcframework/ios-x86_64-simulator")
     echo "x86_64"
+    ;;
+  "FoloosiSdk.xcframework/ios-arm64")
+    echo "arm64"
     ;;
   esac
 }
@@ -117,5 +117,5 @@ install_xcframework() {
   echo "Copied $source to $destination"
 }
 
-install_xcframework "${PODS_ROOT}/Foloosi-iOS-SDK/FoloosiSdk.xcframework" "Foloosi-iOS-SDK" "framework" "ios-arm64" "ios-x86_64-simulator"
+install_xcframework "${PODS_ROOT}/Foloosi-iOS-SDK/FoloosiSdk.xcframework" "Foloosi-iOS-SDK" "framework" "ios-x86_64-simulator" "ios-arm64"
 

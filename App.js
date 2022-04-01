@@ -6,7 +6,7 @@ const App = () => {
   return (
     <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
       <Button
-        title="Pay Now"
+        title="Pay Now (with OderData)"
         onPress={() => {
           console.log("[App] onPress");
           Foloosi.initSDK("YOUR_KEY");
@@ -18,7 +18,7 @@ const App = () => {
               orderDescription: "order description", // any description. // optional
               currencyCode: "INR",
               customerUniqueReference: "customer reference id", // optional
-              country: "India", // mandatory for ios
+              country: "ARE", // mandatory for ios
               postalCode: "6200082", //optional
               state: "Test State", //optional
               customer: {
@@ -36,6 +36,22 @@ const App = () => {
           );
         }}
       ></Button>
+      <View style={{marginTop:10}}>
+        <Button
+          title="Pay Now (with Reference Token)"
+          onPress={() => {
+            console.log("[App] onPress");
+            Foloosi.initSDK("YOUR_KEY");
+            Foloosi.makePaymentWithReferenceToken(
+              "REFERENCE_NUMBER",
+              (response) => {
+                let { success, message, transaction_id } = JSON.parse(response);
+                console.log({ success, message, transaction_id });
+              }
+            );
+          }}
+        ></Button>
+      </View>
     </View>
   );
 };

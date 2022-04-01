@@ -1,6 +1,6 @@
 {
   "name": "react-native-foloosi",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Foloosi",
   "homepage": "https://github.com/FoloosiTech/foloosi-reactnative-sdk#readme",
   "license": "MIT",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/FoloosiTech/react-native-foloosi.git",
-    "tag": "1.0.2"
+    "tag": "1.0.3"
   },
   "source_files": "ios/**/*.{h,m,mm,swift}",
   "dependencies": {

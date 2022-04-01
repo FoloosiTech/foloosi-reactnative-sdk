@@ -1627,6 +1627,7 @@
     <string name="fls_entr_cno">Please enter card number</string>
     <string name="fls_fname">First Name</string>
     <string name="fls_inv_add">Address must be contain A–Z, a–z, 0–9, space only</string>
+    <string name="fls_inv_ch">Please enter card holder name</string>
     <string name="fls_inv_city">Please enter city</string>
     <string name="fls_inv_city_name">City must be contain only English letters and spaces</string>
     <string name="fls_inv_cno">Please enter valid card number</string>
@@ -4916,9 +4917,9 @@
         <item name="colorPrimary">#1654C2</item>
         <item name="colorPrimaryDark">#1654C2</item>
         <item name="colorAccent">#1654C2</item>
-
-
-
+<!--        <item name="android:windowTranslucentStatus">true</item>-->
+<!--        <item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+<!--        <item name="android:statusBarColor">#1654C2</item>-->
     </style>
     <style name="MaterialAlertDialog.Material3" parent="MaterialAlertDialog.MaterialComponents">
     <item name="enforceMaterialTheme">true</item>

@@ -3433,6 +3433,7 @@ string fls_cvv
 string fls_entr_cno
 string fls_fname
 string fls_inv_add
+string fls_inv_ch
 string fls_inv_city
 string fls_inv_city_name
 string fls_inv_cno

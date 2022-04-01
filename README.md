@@ -16,7 +16,7 @@ Foloosi.initSDK("YOUR_KEY");
 
 ## Step - 3 - Create Order Data Object with necessary inputs
 
-You need to give the Order ID, Custom Color for toolbars, Customer Details. Customer Details is required only if you did not give while creating order in Foloosi.
+You need to give the order id, title, description, currency code, order amount and customer details like name, email, mobile number. while creating order in Foloosi.
 
 ```javascript
 // Customer field is optional.
@@ -38,10 +38,26 @@ var orderData = {
     city: "Test City", // optional
   },
 };
+```
 
+## Step - 4 - Make Transaction with Foloosi
+
+a. Use the below line of code to make the payment with the order data you created in Step - 3
+
+```javascript
 Foloosi.makePayment(JSON.stringify(orderData), (response) => {
   let { success, message, transaction_id } = JSON.parse(response);
+  //success - type boolean
+  //message - type string
+  //transaction_id - type string if success is true otherwise it's null
+});
+```
 
+b. Use the below line of code to make the payment with the order data reference token
+
+```javascript
+Foloosi.makePaymentWithReferenceToken("REFERENCE_TOKEN", (response) => {
+  let { success, message, transaction_id } = JSON.parse(response);
   //success - type boolean
   //message - type string
   //transaction_id - type string if success is true otherwise it's null
