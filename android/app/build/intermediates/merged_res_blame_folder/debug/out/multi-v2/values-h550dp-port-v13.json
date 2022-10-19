@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExample/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h550dp-port-v13/values-h550dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/admin/.gradle/caches/transforms-3/6f38f2533d3836eb2b2bf89342b45a1b/transformed/material-1.5.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "source": "/Users/admin/.gradle/caches/transforms-3/3f13ea22bb5ab06d1f77774facc772b6/transformed/material-1.6.1/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

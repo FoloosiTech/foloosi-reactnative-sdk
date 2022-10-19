@@ -35,19 +35,75 @@
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="add_new_card">إضافة بطاقة جديدة</string>
+    <string name="billing_address">Billing Address</string>
     <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="card_holder_name">إسم صاحب البطاقة</string>
+    <string name="card_holder_s_name">اسم حامل البطاقة</string>
+    <string name="card_number">رقم البطاقة</string>
     <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
     <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
     <string name="clear_text_end_icon_content_description">محو النص</string>
     <string msgid="6083905920877235314" name="copy">"نسخ"</string>
     <string msgid="3260749812566568062" name="copy_toast_msg">"تم نسخ الرابط إلى الحافظة."</string>
+    <string name="customer_email_empty">البريد الإلكتروني للعميل فارغ</string>
+    <string name="customer_email_invalid">البريد الإلكتروني للعميل غير صالح</string>
+    <string name="customer_mobile_number_empty">رقم هاتف العميل فارغ</string>
+    <string name="customer_name_empty">اسم العميل فارغ</string>
+    <string name="edit_billing_address">Edit Billing Address</string>
     <string name="error_icon_content_description">خطأ</string>
     <string msgid="2427401033573778270" name="expand_button_title">"إعدادات متقدمة"</string>
+    <string name="expiry">انقضاء</string>
     <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
     <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"نسخ الرابط"</string>
     <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"فتح في المتصفح"</string>
     <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"مشاركة الرابط"</string>
+    <string name="fls_add">الرجاء إدخال العنوان</string>
+    <string name="fls_address">Address</string>
+    <string name="fls_alt_msg">هل أنت متأكد أنك تريد إلغاء هذه الصفقة؟</string>
+    <string name="fls_c_exp">تاريخ انتهاء الصلاحية (MM / YY)</string>
+    <string name="fls_c_no">رقم البطاقة</string>
+    <string name="fls_c_zip">Zip Code (A1B 2C3)</string>
+    <string name="fls_city">City</string>
+    <string name="fls_con_cancel">إلغاء الصفقة</string>
+    <string name="fls_cty">Country</string>
+    <string name="fls_cvv">CVV</string>
+    <string name="fls_enter_zip">حقل الرمز البريدي فارغ</string>
+    <string name="fls_entr_cno">الرجاء إدخال رقم البطاقة</string>
+    <string name="fls_entr_cvv">الرجاء إدخال رمز التحقق من البطاقة (CVV)</string>
+    <string name="fls_entr_exp">الرجاء إدخال تاريخ انتهاء الصلاحية</string>
+    <string name="fls_fname">First Name</string>
+    <string name="fls_inv_add">يجب أن يحتوي العنوان على A – Z، a – z، 0–9، مسافة فقط</string>
+    <string name="fls_inv_ch">الرجاء إدخال اسم حامل البطاقة</string>
+    <string name="fls_inv_city">حقل المدينة فارغ</string>
+    <string name="fls_inv_city_name">يجب أن تحتوي المدينة على أحرف إنجليزية ومسافات فقط</string>
+    <string name="fls_inv_cno">يرجى تقديم رقم البطاقة الصحيح</string>
+    <string name="fls_inv_cty">حقل البلد فارغ</string>
+    <string name="fls_inv_customer_name">يجب أن يحتوي اسم العميل على أحرف إنجليزية ومسافات فقط</string>
+    <string name="fls_inv_cvv">الرجاء إدخال رمز CVV صالح</string>
+    <string name="fls_inv_exp">يرجى تقديم تاريخ انتهاء الصلاحية الصحيح</string>
+    <string name="fls_inv_f">Please enter first name</string>
+    <string name="fls_inv_l">Please enter last name</string>
+    <string name="fls_inv_name">يجب أن يحتوي اسم حامل البطاقة على أحرف إنجليزية ومسافات فقط</string>
+    <string name="fls_inv_s_state">حقل الولاية فارغ</string>
+    <string name="fls_inv_state">حقل الولاية فارغ</string>
+    <string name="fls_inv_state_name">يجب أن تحتوي الولاية على أحرف إنجليزية ومسافات فقط</string>
+    <string name="fls_inv_zip">الرمز البريدي غير صالح</string>
+    <string name="fls_lname">Last Name</string>
+    <string name="fls_no">يلغي</string>
+    <string name="fls_p_tt">دفع</string>
+    <string name="fls_pay">يدفع </string>
+    <string name="fls_processing">يعالج</string>
+    <string name="fls_progress">يرجى <b> عدم </b> الإغلاق أو \ n النقر فوق الزر "رجوع"</string>
+    <string name="fls_s_cty">Select Country</string>
+    <string name="fls_s_state">Select State</string>
+    <string name="fls_state">State</string>
+    <string name="fls_u_zip">Zip Code (00000–0000)</string>
+    <string name="fls_yes">نعم</string>
+    <string name="fls_zip">Zip Code</string>
     <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="imageContent">imageContent</string>
+    <string name="invalid_country">بلد غير صالح</string>
     <string name="item_view_role_description">علامة تبويب</string>
     <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
     <string name="material_hour_selection">تحديد الساعة</string>
@@ -61,6 +117,7 @@
     <string name="material_timepicker_pm">مساءً</string>
     <string name="material_timepicker_select_time">اختيار الوقت</string>
     <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="mm_yy">شهر / سنة</string>
     <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
     <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
@@ -94,12 +151,23 @@
     <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
     <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت</string>
     <string msgid="6573031135582639649" name="not_set">"لم يتمّ تحديد قيمة."</string>
+    <string name="order_amount_invalid">مبلغ الطلب غير صالح</string>
+    <string name="order_currency_code_invalid">كود عملة الطلب غير صالح</string>
+    <string name="order_customer_null">يجب ألا يكون طلب العميل فارغًا</string>
+    <string name="order_id_empty">لا يمكن ترك معرّف الطلب فارغًا</string>
     <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="payment_error">Payment error</string>
     <string msgid="6685851473431805375" name="preference_copied">"تم نسخ \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" إلى الحافظة."</string>
+    <string name="reference_token_empty">Reference Token can not be empty</string>
+    <string name="save_cards_list">قائمة البطاقات المحفوظة</string>
+    <string name="save_this_card">احفظ هذه البطاقة</string>
     <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
     <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="transaction_failed">Transaction Failed</string>
     <string msgid="3140233346420563315" name="v7_preference_off">"إيقاف"</string>
     <string msgid="89551595707643515" name="v7_preference_on">"مفعّلة"</string>
+    <string name="valid_amount">مبلغ غير صحيح</string>
 </resources>

@@ -9,11 +9,15 @@ const App = () => {
         title="Pay Now (with OderData)"
         onPress={() => {
           console.log("[App] onPress");
-          Foloosi.initSDK("YOUR_KEY");
+          Foloosi.initSDK(
+            JSON.stringify({
+              merchantKey: "YOUR_KEY",
+              customColor: "#AB34FD",
+            })
+          );
           Foloosi.makePayment(
             JSON.stringify({
               orderAmount: 1.0, // in double format ##,###.##
-              customColor: "#AB34FD", // make payment page loading color as app color. // optional
               orderId: "orderId", // unique order id
               orderDescription: "order description", // any description. // optional
               currencyCode: "INR",
@@ -36,12 +40,19 @@ const App = () => {
           );
         }}
       ></Button>
-      <View style={{marginTop:10}}>
+      <View style={{ marginTop: 10 }}>
         <Button
           title="Pay Now (with Reference Token)"
           onPress={() => {
             console.log("[App] onPress");
-            Foloosi.initSDK("YOUR_KEY");
+
+            Foloosi.initSDK(
+              JSON.stringify({
+                merchantKey: "YOUR_KEY",
+                customColor: "#AB34FD",
+              })
+            );
+
             Foloosi.makePaymentWithReferenceToken(
               "REFERENCE_NUMBER",
               (response) => {

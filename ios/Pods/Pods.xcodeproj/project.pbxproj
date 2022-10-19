@@ -16742,32 +16742,6 @@
 			};
 			name = Debug;
 		};
-		43636972DE7F90031A70877FAE25441A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 37BED2C46C1B6549B04F85EB64C57282 /* react-native-foloosi.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/react-native-foloosi/react-native-foloosi-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				MODULEMAP_FILE = "Headers/Public/react_native_foloosi/react-native-foloosi.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = react_native_foloosi;
-				PRODUCT_NAME = "react-native-foloosi";
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		4367B649B0FDD4968BD30C6AD86B4FA6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A0253300733921BB73F9FD6F6756831B /* Pods-foloosi_example.debug.xcconfig */;
@@ -17257,31 +17231,6 @@
 			};
 			name = Debug;
 		};
-		6DBD6FBE4FAEE9D98A998F21F7632F92 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 869EA7DF5B431EBC9C19FC3B2AB1C708 /* react-native-foloosi.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/react-native-foloosi/react-native-foloosi-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				MODULEMAP_FILE = "Headers/Public/react_native_foloosi/react-native-foloosi.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = react_native_foloosi;
-				PRODUCT_NAME = "react-native-foloosi";
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 		70B55DAFBB93BF9AD0018C907FBB1B5E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 15F18B83E7B8A8C4830CC8BE1E2CDA04 /* Flipper-DoubleConversion.release.xcconfig */;
@@ -17411,6 +17360,31 @@
 				PRIVATE_HEADERS_FOLDER_PATH = "";
 				PRODUCT_MODULE_NAME = RCTLinking;
 				PRODUCT_NAME = "React-RCTLinking";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7F24EFCEE90945196B4A6520735A62D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 869EA7DF5B431EBC9C19FC3B2AB1C708 /* react-native-foloosi.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/react-native-foloosi/react-native-foloosi-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MODULEMAP_FILE = "Headers/Public/react_native_foloosi/react-native-foloosi.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = react_native_foloosi;
+				PRODUCT_NAME = "react-native-foloosi";
 				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -17937,6 +17911,32 @@
 				PRIVATE_HEADERS_FOLDER_PATH = "";
 				PRODUCT_MODULE_NAME = jsireact;
 				PRODUCT_NAME = "React-jsiexecutor";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BE26E417636F7667349F5470A741A21E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 37BED2C46C1B6549B04F85EB64C57282 /* react-native-foloosi.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/react-native-foloosi/react-native-foloosi-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MODULEMAP_FILE = "Headers/Public/react_native_foloosi/react-native-foloosi.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = react_native_foloosi;
+				PRODUCT_NAME = "react-native-foloosi";
 				PUBLIC_HEADERS_FOLDER_PATH = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -18911,8 +18911,8 @@
 		E87D42B95F0EF638FBEEBA64ED4D0998 /* Build configuration list for PBXNativeTarget "react-native-foloosi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6DBD6FBE4FAEE9D98A998F21F7632F92 /* Debug */,
-				43636972DE7F90031A70877FAE25441A /* Release */,
+				7F24EFCEE90945196B4A6520735A62D7 /* Debug */,
+				BE26E417636F7667349F5470A741A21E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

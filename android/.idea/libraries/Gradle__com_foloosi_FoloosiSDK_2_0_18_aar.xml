@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.foloosi:FoloosiSDK:2.0.18@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.foloosi/FoloosiSDK/2.0.18/98cd0f4db854288357e3893284a84538483b004e/FoloosiSDK-2.0.18-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.foloosi/FoloosiSDK/2.0.18/8c0d15bc6fac903cf7583113aa3479e42c26ed18/FoloosiSDK-2.0.18-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

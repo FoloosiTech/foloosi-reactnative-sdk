@@ -9,9 +9,14 @@
 ```javascript
 import Foloosi from "react-native-foloosi";
 
-// To initialize the SDK add the below line of code with the public key you retrieved from foloosi merchant panel. If you don't have a public key create new one.
+// To initialize the SDK add the below lines of code with the public key you retrieved from Foloosi merchant panel. If you don't have a public key create new one.
 
-Foloosi.initSDK("YOUR_KEY");
+var initData = {
+  merchantKey: "YOUR_KEY", // public key
+  customColor: "#AB34FD", // make payment page loading color as app color. // optional
+};
+
+Foloosi.initSDK(JSON.stringify(initData));
 ```
 
 ## Step - 3 - Create Order Data Object with necessary inputs

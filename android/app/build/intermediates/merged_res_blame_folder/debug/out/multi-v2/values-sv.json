@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExample/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/Users/admin/.gradle/caches/transforms-3/ff5df5bcdf69debbf1e3067aa1d51dbb/transformed/core-1.7.0/res/values-sv/values-sv.xml",
@@ -55,7 +55,24 @@
                     }
                 },
                 {
-                    "source": "/Users/admin/.gradle/caches/transforms-3/6f38f2533d3836eb2b2bf89342b45a1b/transformed/material-1.5.0/res/values-sv/values-sv.xml",
+                    "source": "/Users/admin/.gradle/caches/transforms-3/6d4d406c14e5366b9a30bb6ba4b6fab9/transformed/preference-1.2.0/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,176,264,342,479,648,727",
+                        "endColumns": "70,87,77,136,168,78,75",
+                        "endOffsets": "171,259,337,474,643,722,798"
+                    },
+                    "to": {
+                        "startLines": "37,40,92,94,97,98,99",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3324,3558,7692,7848,8166,8335,8414",
+                        "endColumns": "70,87,77,136,168,78,75",
+                        "endOffsets": "3390,3641,7765,7980,8330,8409,8485"
+                    }
+                },
+                {
+                    "source": "/Users/admin/.gradle/caches/transforms-3/3f13ea22bb5ab06d1f77774facc772b6/transformed/material-1.6.1/res/values-sv/values-sv.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -71,23 +88,6 @@
                         "endLines": "5,33,34,35,36,39,41,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,93",
                         "endColumns": "12,80,97,121,78,62,91,63,59,91,62,61,66,63,53,104,58,60,53,68,118,82,83,105,78,83,85,66,65,68,73,88,71,76,70,73,90,78,86,87,71,73,84,50,66,80,83,61,63,62,106,106,98,107,77",
                         "endOffsets": "266,3020,3118,3240,3319,3553,3733,4108,4168,4260,4323,4385,4452,4516,4570,4675,4734,4795,4849,4918,5037,5120,5204,5310,5389,5473,5559,5626,5692,5761,5835,5924,5996,6073,6144,6218,6309,6388,6475,6563,6635,6709,6794,6845,6912,6993,7077,7139,7203,7266,7373,7480,7579,7687,7843"
-                    }
-                },
-                {
-                    "source": "/Users/admin/.gradle/caches/transforms-3/6d4d406c14e5366b9a30bb6ba4b6fab9/transformed/preference-1.2.0/res/values-sv/values-sv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "105,176,264,342,479,648,727",
-                        "endColumns": "70,87,77,136,168,78,75",
-                        "endOffsets": "171,259,337,474,643,722,798"
-                    },
-                    "to": {
-                        "startLines": "37,40,92,94,97,98,99",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "3324,3558,7692,7848,8166,8335,8414",
-                        "endColumns": "70,87,77,136,168,78,75",
-                        "endOffsets": "3390,3641,7765,7980,8330,8409,8485"
                     }
                 }
             ]

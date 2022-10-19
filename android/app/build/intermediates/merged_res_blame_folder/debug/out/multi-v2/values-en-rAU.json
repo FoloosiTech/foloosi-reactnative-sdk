@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExample/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/Users/admin/.gradle/caches/transforms-3/193d533916babea2ff6feaeaf6e01cc3/transformed/browser-1.4.0/res/values-en-rAU/values-en-rAU.xml",

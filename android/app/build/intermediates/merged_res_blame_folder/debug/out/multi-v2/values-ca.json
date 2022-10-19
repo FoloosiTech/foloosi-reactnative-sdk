@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExample/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+            "outputFile": "/Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
             "map": [
                 {
                     "source": "/Users/admin/.gradle/caches/transforms-3/193d533916babea2ff6feaeaf6e01cc3/transformed/browser-1.4.0/res/values-ca/values-ca.xml",
@@ -72,7 +72,7 @@
                     }
                 },
                 {
-                    "source": "/Users/admin/.gradle/caches/transforms-3/6f38f2533d3836eb2b2bf89342b45a1b/transformed/material-1.5.0/res/values-ca/values-ca.xml",
+                    "source": "/Users/admin/.gradle/caches/transforms-3/3f13ea22bb5ab06d1f77774facc772b6/transformed/material-1.6.1/res/values-ca/values-ca.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
