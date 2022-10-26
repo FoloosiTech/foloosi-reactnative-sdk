@@ -10,7 +10,7 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.99.0] /Users/admin/.g
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.99.0] /Users/admin/.gradle/caches/transforms-3/d1f78a3bfe608333c8a8682ec4347618/transformed/jetified-flipper-fresco-plugin-0.99.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-foloosi] /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/node_modules/react-native-foloosi/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.67.4] /Users/admin/.gradle/caches/transforms-3/221c71d43dbd5b88bd9ef5161912c98c/transformed/jetified-react-native-0.67.4/AndroidManifest.xml:2:1-11:12
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:2:1-25:12
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-3/6f5c17ce33458f1ff2d981e9d83c7fbd/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-3/7833aef98249bb916b876618bad102cb/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/admin/.gradle/caches/transforms-3/2440439db2f6d9d5f76a90648980e461/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -113,8 +113,8 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/admin/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.99.0] /Users/admin/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:15:5-67
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:9:5-67
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:9:5-67
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:9:5-67
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:9:5-67
 	android:name
 		ADDED from /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:4:22-64
 application
@@ -123,8 +123,8 @@ MERGED from /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnati
 MERGED from /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from [com.facebook.react:react-native:0.67.4] /Users/admin/.gradle/caches/transforms-3/221c71d43dbd5b88bd9ef5161912c98c/transformed/jetified-react-native-0.67.4/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.67.4] /Users/admin/.gradle/caches/transforms-3/221c71d43dbd5b88bd9ef5161912c98c/transformed/jetified-react-native-0.67.4/AndroidManifest.xml:9:5-20
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:13:5-23:19
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:13:5-23:19
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:13:5-23:19
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:13:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/admin/.gradle/caches/transforms-3/e4029841d7aaf407dba19c713be08024/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.1] /Users/admin/.gradle/caches/transforms-3/e4029841d7aaf407dba19c713be08024/transformed/jetified-soloader-0.10.1/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.6.1] /Users/admin/.gradle/caches/transforms-3/3f13ea22bb5ab06d1f77774facc772b6/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
@@ -209,8 +209,8 @@ MERGED from [:react-native-foloosi] /Users/admin/Documents/WorkSpace/FoloosiExam
 MERGED from [:react-native-foloosi] /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/node_modules/react-native-foloosi/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.4] /Users/admin/.gradle/caches/transforms-3/221c71d43dbd5b88bd9ef5161912c98c/transformed/jetified-react-native-0.67.4/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.67.4] /Users/admin/.gradle/caches/transforms-3/221c71d43dbd5b88bd9ef5161912c98c/transformed/jetified-react-native-0.67.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:5:5-7:41
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:5:5-7:41
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-3/6f5c17ce33458f1ff2d981e9d83c7fbd/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/admin/.gradle/caches/transforms-3/6f5c17ce33458f1ff2d981e9d83c7fbd/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/admin/.gradle/caches/transforms-3/7833aef98249bb916b876618bad102cb/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
@@ -385,30 +385,30 @@ ADDED from /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnativ
 		ADDED from /Users/admin/Documents/WorkSpace/FoloosiExampleApp/foloosi-reactnative-sdk/android/app/src/debug/AndroidManifest.xml:11:19-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/admin/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:10:5-76
-MERGED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:10:5-76
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:10:5-76
+MERGED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:10:5-76
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.99.0] /Users/admin/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:11:5-79
+ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:11:22-76
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:11:22-76
 meta-data#android.webkit.WebView.EnableSafeBrowsing
-ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:14:9-16:37
+ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:14:9-16:37
 	android:value
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:16:13-34
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:16:13-34
 	android:name
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:15:13-69
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:15:13-69
 activity#com.foloosi.core.ActFoloosiPay
-ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:18:9-22:76
+ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:18:9-22:76
 	android:screenOrientation
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:20:13-49
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:20:13-49
 	android:windowSoftInputMode
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:22:13-73
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:22:13-73
 	android:theme
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:21:13-48
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:21:13-48
 	android:name
-		ADDED from [com.foloosi:FoloosiSDK:2.0.18] /Users/admin/.gradle/caches/transforms-3/b31c50b4c90a887e8a705c58339a574d/transformed/jetified-FoloosiSDK-2.0.18/AndroidManifest.xml:19:13-58
+		ADDED from [com.foloosi:FoloosiSDK:2.0.19] /Users/admin/.gradle/caches/transforms-3/494147dfab18e6b87aa0f507e6371d50/transformed/jetified-FoloosiSDK-2.0.19/AndroidManifest.xml:19:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/admin/.gradle/caches/transforms-3/b9b136e7040d50ef97fac8b887254660/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/admin/.gradle/caches/transforms-3/2fda1ef4a376de495fc302fd0d62eb5a/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
